@@ -7,7 +7,7 @@ The app allows users to track daily food intake, calculate calories, and receive
 - Personalized diet recommendations.  
 - Health statistics and progress tracking.  
 - Integration with wearable devices (future feature).
-**Goal**
+#**Goal**
 Empower users to build healthier eating habits and achieve long-term wellness through smart technology.
 **Developers**
 Wassim Beladzar
