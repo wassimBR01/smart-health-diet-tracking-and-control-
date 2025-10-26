@@ -9,16 +9,16 @@ The app provides real-time calorie tracking, nutrition insights, and personalize
 
 Track Meals, Snacks & Drinks: Log food intake easily throughout the day.
 
-Real-Time Analysis:
+**Real-Time Analysis**:
  Automatically calculate calories, macros, and nutrients.
 
-Personalized Recommendations:
+**Personalized Recommendations**:
 Tailored diet advice based on user goals.
 
-Health Statistics:
+**Health Statistics**:
 View progress through interactive charts and summaries.
 
-Device Integration (Future):
+**Device Integration (Future)**:
  Connect with smartwatches and fitness bands for automatic tracking.
 
  **Goal** : 
