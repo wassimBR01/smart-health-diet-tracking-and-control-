@@ -7,7 +7,8 @@ The app provides real-time calorie tracking, nutrition insights, and personalize
 
 **Features** :
 
-Track Meals, Snacks & Drinks: Log food intake easily throughout the day.
+**Track Meals, Snacks & Drinks**:
+Log food intake easily throughout the day.
 
 **Real-Time Analysis**:
  Automatically calculate calories, macros, and nutrients.
